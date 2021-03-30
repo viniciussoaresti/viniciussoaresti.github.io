@@ -24,8 +24,6 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/viniciussoaresti/viniciussoaresti.github.io?color=56BEB8" /> -->
 </p>
 
-Status
-
 <h4 align="center"> 
 	🚧  Viniciussoaresti Github Io 🚀 Under construction...  🚧
 </h4> 
