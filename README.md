@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <!-- <a href="https://viniciussoarestigithubio.netlify.app">Demo</a> -->
+  <a href="https://viniciussoaresti.github.io">👉Live👈</a>
 </div>
 
 <h1 align="center">Vinicius Soares' Portfolio</h1>
