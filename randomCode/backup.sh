@@ -3,7 +3,7 @@ mkdir -p /g/cDisk/downloads/ &
 mkdir -p /g/cDisk/eclipse-workspace/ &
 mkdir -p /g/cDisk/pictures/ &
 mkdir -p /g/cDisk/videos/ &
-mkdir -p /e/eDisk/osuSongs/ &
+mkdir -p /g/eDisk/osuSongs/ &
 mkdir -p /g/fDisk/Downloads &
 wait
 echo "Check done, starting copies!"
