@@ -1,6 +1,6 @@
 /*
 Found at https://www.reddit.com/r/YoutubeMusic/comments/eiaqo6/how_to_like_all_songs_in_a_playlist/, by user Bepo_bear
-Translated to english and modified maxSameHeight value. Need to keep window open to fully work.
+Translated to english and upped maxSameHeight. Need to keep window open to fully work.
 */
 
 async function likeAllSongs() {
@@ -9,7 +9,7 @@ async function likeAllSongs() {
 
     let lastHeight = 0;
     let sameHeightCount = 0;
-    const maxSameHeight = 1000000000000;
+    const maxSameHeight = 10000000000;
 
     let likedCount = 0;
 
@@ -40,8 +40,6 @@ async function likeAllSongs() {
                 likedCount++;
                 console.log(`✅ Liked: "${title}" by ${artist}`);
                 await new Promise(r => setTimeout(r, delayBetweenActions));
-            } else {
-                console.log(`⏩ Already liked: "${title}" by ${artist}`);
             }
         }
 
